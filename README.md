@@ -2,4 +2,4 @@
 목차|링크|체크|
 |------|---|---|
 |0. 등장배경|https://suesuehwanhwan.tistory.com/67|✔|
-|1. 타입|https://suesuehwanhwan.tistory.com/68|✔|
+|1. 타입스크립트 설치|https://suesuehwanhwan.tistory.com/68|✔|
