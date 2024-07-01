@@ -3,3 +3,4 @@
 |------|---|---|
 |0. 등장배경|https://suesuehwanhwan.tistory.com/67|✔|
 |1. 타입스크립트 설치|https://suesuehwanhwan.tistory.com/68|✔|
+|2. 타입 추론|https://suesuehwanhwan.tistory.com/69|✔|
