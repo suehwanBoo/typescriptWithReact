@@ -6,3 +6,4 @@
 |2. 타입 추론|https://suesuehwanhwan.tistory.com/69|✔|
 |3. TS의 object|https://suesuehwanhwan.tistory.com/70|✔|
 |4. TS의 Array|https://suesuehwanhwan.tistory.com/71|✔|
+|5. TS의 Tuple|https://suesuehwanhwan.tistory.com/72|✔|
