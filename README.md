@@ -5,4 +5,4 @@
 |1. 타입스크립트 설치|https://suesuehwanhwan.tistory.com/68|✔|
 |2. 타입 추론|https://suesuehwanhwan.tistory.com/69|✔|
 |3. TS의 object|https://suesuehwanhwan.tistory.com/70|✔|
-|4. TS의 object|https://suesuehwanhwan.tistory.com/71|✔|
+|4. TS의 Array|https://suesuehwanhwan.tistory.com/71|✔|
