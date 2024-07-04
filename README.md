@@ -10,5 +10,7 @@
 |6. TS의 Enum|https://suesuehwanhwan.tistory.com/73|✔|
 |7. Any|https://suesuehwanhwan.tistory.com/74|✔|
 |8. Union|https://suesuehwanhwan.tistory.com/75|✔|
+|9. 리터럴|https://suesuehwanhwan.tistory.com/76|✔|
+
 
 
