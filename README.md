@@ -8,4 +8,7 @@
 |4. TS의 Array|https://suesuehwanhwan.tistory.com/71|✔|
 |5. TS의 Tuple|https://suesuehwanhwan.tistory.com/72|✔|
 |6. TS의 Enum|https://suesuehwanhwan.tistory.com/73|✔|
+|7. Any|https://suesuehwanhwan.tistory.com/74|✔|
+|8. Union|https://suesuehwanhwan.tistory.com/75|✔|
+
 
