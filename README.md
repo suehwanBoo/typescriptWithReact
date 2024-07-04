@@ -13,6 +13,8 @@
 |9. 리터럴|https://suesuehwanhwan.tistory.com/76|✔|
 |10. 타입 알리어스|https://suesuehwanhwan.tistory.com/77|✔|
 |11. 함수의 반환 타입|https://suesuehwanhwan.tistory.com/78|✔|
+|12. 함수를 타입으로|https://suesuehwanhwan.tistory.com/79|✔|
+
 
 
 
