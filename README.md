@@ -12,6 +12,8 @@
 |8. Union|https://suesuehwanhwan.tistory.com/75|✔|
 |9. 리터럴|https://suesuehwanhwan.tistory.com/76|✔|
 |10. 타입 알리어스|https://suesuehwanhwan.tistory.com/77|✔|
+|11. 함수의 반환 타입|https://suesuehwanhwan.tistory.com/78|✔|
+
 
 
 
