@@ -20,6 +20,8 @@
 |16. tsconfig 훑기|https://suesuehwanhwan.tistory.com/83|✔|
 |17. TS의 class(1)|https://suesuehwanhwan.tistory.com/84|✔|
 |18. TS의 class(2)|https://suesuehwanhwan.tistory.com/85|✔|
+|19. TS의 class(3)|https://suesuehwanhwan.tistory.com/86|✔|
+
 
 
 
