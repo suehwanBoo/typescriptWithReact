@@ -21,6 +21,8 @@
 |17. TS의 class(1)|https://suesuehwanhwan.tistory.com/84|✔|
 |18. TS의 class(2)|https://suesuehwanhwan.tistory.com/85|✔|
 |19. TS의 class(3)|https://suesuehwanhwan.tistory.com/86|✔|
+|20. TS의 인터페이스|https://suesuehwanhwan.tistory.com/87|✔|
+
 
 
 
