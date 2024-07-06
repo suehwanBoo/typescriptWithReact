@@ -25,6 +25,13 @@
 |21. 교차 타입|https://suesuehwanhwan.tistory.com/88|✔|
 |22. 타입 가드|https://suesuehwanhwan.tistory.com/89|✔|
 |23. 타입 캐스팅|https://suesuehwanhwan.tistory.com/90|✔|
+|24. 인덱스 속성|https://suesuehwanhwan.tistory.com/91|✔|
+|25. 함수 오버로딩|https://suesuehwanhwan.tistory.com/92|✔|
+|26. 제네릭 (3)|https://suesuehwanhwan.tistory.com/95|✔|
+|27. 제네릭 (1)|https://suesuehwanhwan.tistory.com/93|✔|
+|28. 제네릭 (2)|https://suesuehwanhwan.tistory.com/94|✔|
+
+
 
 
 
