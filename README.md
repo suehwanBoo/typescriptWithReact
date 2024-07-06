@@ -22,6 +22,12 @@
 |18. TS의 class(2)|https://suesuehwanhwan.tistory.com/85|✔|
 |19. TS의 class(3)|https://suesuehwanhwan.tistory.com/86|✔|
 |20. TS의 인터페이스|https://suesuehwanhwan.tistory.com/87|✔|
+|21. 교차 타입|https://suesuehwanhwan.tistory.com/88|✔|
+|22. 타입 가드|https://suesuehwanhwan.tistory.com/89|✔|
+|23. 타입 캐스팅|https://suesuehwanhwan.tistory.com/90|✔|
+
+
+
 
 
 
