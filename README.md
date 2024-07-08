@@ -30,6 +30,14 @@
 |26. 제네릭 (3)|https://suesuehwanhwan.tistory.com/95|✔|
 |27. 제네릭 (1)|https://suesuehwanhwan.tistory.com/93|✔|
 |28. 제네릭 (2)|https://suesuehwanhwan.tistory.com/94|✔|
+|29. 제네릭 (3)|https://suesuehwanhwan.tistory.com/95|✔|
+|30. TS DND 만들기 연습 (1)|https://suesuehwanhwan.tistory.com/96|✔|
+|30. TS DND 만들기 연습 (2)|https://suesuehwanhwan.tistory.com/97|✔|
+|30. TS DND 만들기 연습 (3)|https://suesuehwanhwan.tistory.com/98|✔|
+
+
+
+
 
 
 
