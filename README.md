@@ -35,6 +35,10 @@
 |31. TS 컴포넌트 만들기 연습 (2)|https://suesuehwanhwan.tistory.com/97|✔|
 |32. TS 컴포넌트 만들기 연습 (3)|https://suesuehwanhwan.tistory.com/98|✔|
 |33. TS 컴포넌트 만들기 연습 (4)|https://suesuehwanhwan.tistory.com/99|✔|
+|34. TS 네임스페이스|https://suesuehwanhwan.tistory.com/100|✔|
+|35. TS 모듈|https://suesuehwanhwan.tistory.com/101|✔|
+
+
 
 
 
