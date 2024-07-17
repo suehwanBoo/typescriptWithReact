@@ -37,6 +37,9 @@
 |33. TS 컴포넌트 만들기 연습 (4)|https://suesuehwanhwan.tistory.com/99|✔|
 |34. TS 네임스페이스|https://suesuehwanhwan.tistory.com/100|✔|
 |35. TS 모듈|https://suesuehwanhwan.tistory.com/101|✔|
+|36. 리액트의 컴포넌트와 JSX 확장자|https://suesuehwanhwan.tistory.com/102|✔|
+|37. 리액트에서의 동적값 활용 {}|https://suesuehwanhwan.tistory.com/103|✔|
+
 
 
 
