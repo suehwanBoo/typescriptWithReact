@@ -39,6 +39,9 @@
 |35. TS 모듈|https://suesuehwanhwan.tistory.com/101|✔|
 |36. 리액트의 컴포넌트와 JSX 확장자|https://suesuehwanhwan.tistory.com/102|✔|
 |37. 리액트에서의 동적값 활용 {}|https://suesuehwanhwan.tistory.com/103|✔|
+|38. 리액트 useState 깊게 보기 {}|https://suesuehwanhwan.tistory.com/104|✔|
+|39. 리액트 useState 상태 변경 {}|https://suesuehwanhwan.tistory.com/105|✔|
+
 
 
 
