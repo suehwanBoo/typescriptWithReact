@@ -39,8 +39,14 @@
 |35. TS 모듈|https://suesuehwanhwan.tistory.com/101|✔|
 |36. 리액트의 컴포넌트와 JSX 확장자|https://suesuehwanhwan.tistory.com/102|✔|
 |37. 리액트에서의 동적값 활용 {}|https://suesuehwanhwan.tistory.com/103|✔|
-|38. 리액트 useState 깊게 보기 {}|https://suesuehwanhwan.tistory.com/104|✔|
-|39. 리액트 useState 상태 변경 {}|https://suesuehwanhwan.tistory.com/105|✔|
+|38. 리액트 useState 깊게 보기 |https://suesuehwanhwan.tistory.com/104|✔|
+|39. 리액트 useState 상태 변경 |https://suesuehwanhwan.tistory.com/105|✔|
+|40. 리액트에서 CSS 다루기|https://suesuehwanhwan.tistory.com/106|✔|
+|41. 리액트 state, ref, 일반 변수|https://suesuehwanhwan.tistory.com/107|✔|
+|42. 리액트 커스텀 훅으로 재사용 가능한 모달 만들|https://suesuehwanhwan.tistory.com/108|✔|
+
+
+
 
 
 
